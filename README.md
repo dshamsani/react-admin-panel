@@ -4,7 +4,7 @@
 * [![React][React.js]][React-url]
 
 # Screenshot
-![screenshot](https://imgur.com/wxGl7gS)
+![screenshot](https://ibb.co/RS2LKXC)
 
 
 
